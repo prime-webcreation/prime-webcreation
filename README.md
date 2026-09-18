@@ -26,15 +26,13 @@
 ### Connect with Me
 
 <p>
-  <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" valign="middle" /> 
+  <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" valign="middle" />
   <a href="mailto:mandy.jendroska@yahoo.de"><strong>mandy.jendroska@yahoo.de</strong></a>
-</p>
-<p>
-  <img src="https://simpleicons.org/icons/linkedin.svg" width="18" height="18" valign="middle" /> 
+  &nbsp;|&nbsp;
+  <img src="https://simpleicons.org/icons/linkedin.svg" width="18" height="18" valign="middle" />
   <a href="https://de.linkedin.com/in/mandy-jendroska" target="_blank"><strong>Mandy Jendroska auf LinkedIn</strong></a>
-</p>
-<p>
-  <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" valign="middle" /> 
+  &nbsp;|&nbsp;
+  <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" valign="middle" />
   <a href="https://github.com/prime-webcreation" target="_blank"><strong>prime-webcreation auf GitHub</strong></a>
 </p>
 
