@@ -14,7 +14,7 @@
 ---
 
 
-### 🛠️ Skills & Tech Stack 
+### 🛠️ Tools & Tech Stack 
 
 | 🌐 | 🎨 & 🤖 |
 | :--- | :--- |
@@ -23,19 +23,12 @@
 
 ---
 
-### Connect with Me
+### Let`s Connect
 
-<p>
-  <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" valign="middle" /> 
-  <a href="mailto:mandy.jendroska@yahoo.de"><strong>mandy.jendroska@yahoo.de</strong></a>
-</p>
-<p>
-  <img src="https://simpleicons.org/icons/linkedin.svg" width="18" height="18" valign="middle" /> 
-  <a href="https://de.linkedin.com/in/mandy-jendroska" target="_blank"><strong>Mandy Jendroska auf LinkedIn</strong></a>
-</p>
-<p>
-  <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" valign="middle" /> 
-  <a href="https://github.com/prime-webcreation" target="_blank"><strong>prime-webcreation auf GitHub</strong></a>
+<p align="left">
+   <a href="mailto:mandy.jendroska@yahoo.de"><strong>Email</strong></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://de.linkedin.com/in/mandy-jendroska" target="_blank"><strong>LinkedIn</strong></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://github.com/prime-webcreation" target="_blank"><strong>GitHub</strong></a>
 </p>
 
-<p align="right"><a href="#hi-there-im-mandy-">back to top ⬆️</a></p>
+<p align="right"><a href="#hi-there-im-mandy-">top ⬆️</a></p>
