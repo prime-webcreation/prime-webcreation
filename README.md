@@ -1,6 +1,6 @@
 # Hi there, I'm Mandy 👋
 
-### Junior Full-Stack Software Developer & AI Product Designer
+### Junior Full-Stack Software Developer & AI Designer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=61DAFB&background=FFFCFC00&width=435&lines=Bridging+Code+%26+Design;Specialising+in+UX+%26+AI+Product+Design;Prime-WebCREATION)
 
@@ -9,7 +9,6 @@
 ### 🚀 About Me
 
 - 🔭 **Current Focus:** Specializing in **UX & AI Product Design** and modern full-stack web applications.
-- 💡 **Philosophy:** Creating scalable code with intuitive, user-centered digital interfaces.
 - 💬 **Ask me about:** React, Frontend Architecture, Design Systems, and Prototyping.
 
 ---
