@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Skills & Tech Stack
+### 🛠️🎨 Skills & Tech Stack
 
 #### Frontend Development
 <p align="left">
@@ -36,35 +36,35 @@
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-#### 🎨 Design & Workspace
+#### Design & Workspace
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-#### 🤖 AI & Innovation
+#### AI 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/AI_Product_Design-7928CA?style=for-the-badge" alt="AI Product Design" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
-<p align="left">
-  <a href="mailto:mandy.jendroska@yahoo.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://de.linkedin.com/in/mandy-jendroska" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/prime-webcreation" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p>
+  <img src="https://simpleicons.org/icons/gmail.svg" width="18" height="18" valign="middle" /> 
+  <a href="mailto:mandy.jendroska@yahoo.de"><strong>mandy.jendroska@yahoo.de</strong></a>
+</p>
+<p>
+  <img src="https://simpleicons.org/icons/linkedin.svg" width="18" height="18" valign="middle" /> 
+  <a href="https://de.linkedin.com/in/mandy-jendroska" target="_blank"><strong>Mandy Jendroska auf LinkedIn</strong></a>
+</p>
+<p>
+  <img src="https://simpleicons.org/icons/github.svg" width="18" height="18" valign="middle" /> 
+  <a href="https://github.com/prime-webcreation" target="_blank"><strong>prime-webcreation auf GitHub</strong></a>
 </p>
 
 <p align="right"><a href="#hi-there-im-mandy-">back to top ⬆️</a></p>
